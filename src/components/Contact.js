@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { Link } from "react-router-dom";
 
 const Contact = () => {
   const whatsappNumber = "918500352005";
