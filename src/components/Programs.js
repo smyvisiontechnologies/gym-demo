@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom";
-
 const Programs = () => {
   const whatsappNumber = "918500352005"; // India country code + number
 
